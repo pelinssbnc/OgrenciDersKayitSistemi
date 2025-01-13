@@ -116,7 +116,7 @@ public class Program
         {
             Console.Clear();
             Console.WriteLine("\n1. Öğrenci Girişi");
-            Console.WriteLine("2. Öğretim Görevlisi ve Ekle");
+            Console.WriteLine("2. Öğretim Görevlisi ve Ders Ekle");
             Console.WriteLine("3. Derse Kayıt Ol");
             Console.WriteLine("4. Dersten Kayıt Sil");
             Console.WriteLine("5. Öğrenci Listesini Görüntüle");
