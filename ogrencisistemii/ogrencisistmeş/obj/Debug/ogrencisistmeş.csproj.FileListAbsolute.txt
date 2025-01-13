@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\bin\Debug\ogrencisistmeş.exe.config
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\bin\Debug\ogrencisistmeş.exe
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\bin\Debug\ogrencisistmeş.pdb
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\obj\Debug\ogrencisistmeş.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\obj\Debug\ogrencisistmeş.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\obj\Debug\ogrencis.F85403F8.Up2Date
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\obj\Debug\ogrencisistmeş.exe
+C:\Users\MONSTER\source\repos\ogrencisistmeş\ogrencisistmeş\obj\Debug\ogrencisistmeş.pdb
